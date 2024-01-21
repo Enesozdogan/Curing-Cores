@@ -23,3 +23,12 @@ There are 4 types of pickups in the game curing cores. First of them is the heal
 
 <img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/5727b8f6-ecba-435d-bbad-9d2571ad3595" width=300 height=100/>
 
+## Enemies
+Enemies are the other agent group that utilizes state pattern. The enemy agents differantiate from player by using detectors to trigger state transition. There are different types of detectors implemented for various range and capability. For patrolling enemies a melee detector and for the skill users a medium range detector and for the shooters a ranged detector is implemented.
+
+
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/45f8d77e-7030-4514-8567-07f4bc9936b0" width=100 height=100/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/9923cd55-e5c0-48ed-ad3f-6e0f848c636c" width=100 height=100/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/7c6c9f61-606d-43db-bf5e-24df130a6f3f" width=100 height=100/>
+
+

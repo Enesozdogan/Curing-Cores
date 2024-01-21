@@ -13,7 +13,7 @@ The main character has 3 special abilites which are: Teleportation, BloodSlash a
 Player has to switch between abilites to perform. The outline shader is the indication for which ability is available to use.
 
 
-<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/3643aa22-9a68-43d2-9f90-ba83ce8368d7" width=100 height=100/>
-<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/91bde8fd-dfaf-4a9a-996a-1b436ff057df" width=100 height=100/>
-<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/584cbd7f-fdf4-48c2-8c8c-76e630ce76f0" width=100 height=100/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/3643aa22-9a68-43d2-9f90-ba83ce8368d7" width=200 height=100/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/91bde8fd-dfaf-4a9a-996a-1b436ff057df" width=200 height=100/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/584cbd7f-fdf4-48c2-8c8c-76e630ce76f0" width=200 height=100/>
 

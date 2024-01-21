@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8145413327053616961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: ef1096b0-c49c-498c-9a52-63de9c32e025
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: asdasd
+  subNodes:
+  - 6b39bc4f-5335-43d4-a019-525488530df3
+  nodePos:
+    serializedVersion: 2
+    x: 495
+    y: 269
+    width: 200
+    height: 100
+--- !u!114 &-5941703600238619225
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 6b39bc4f-5335-43d4-a019-525488530df3
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: dddd
+  subNodes:
+  - a2b4a654-279c-4a10-9af2-a317d1ca56e8
+  nodePos:
+    serializedVersion: 2
+    x: 974
+    y: 403
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: Merhaba
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: -8145413327053616961}
+  - {fileID: -5941703600238619225}
+  - {fileID: 4822702138001223199}
+--- !u!114 &4822702138001223199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: a2b4a654-279c-4a10-9af2-a317d1ca56e8
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: 
+  subNodes: []
+  nodePos:
+    serializedVersion: 2
+    x: 1442
+    y: 100
+    width: 200
+    height: 100

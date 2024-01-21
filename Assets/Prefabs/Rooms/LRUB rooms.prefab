@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &458980025735365371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6886566628385822977}
+  - component: {fileID: 6101255542829347043}
+  m_Layer: 0
+  m_Name: LRUB rooms
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6886566628385822977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 458980025735365371}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 5.626977, y: 3.026158, z: -0.69095504}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6101255542829347043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 458980025735365371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9b5bce9537c8e04d89c76c368e570df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  platform_objs:
+  - {fileID: 4800025694935447568, guid: d7fc71c0d4e20494d9cac0756d3fcc98, type: 3}
+  - {fileID: 4830497399053443647, guid: 26b8e2b75b83cad4abb2109efe4c4611, type: 3}
+  - {fileID: 6779110893014120941, guid: 57d08fd52e6ea434aa71a689aec60150, type: 3}
+  - {fileID: 421627503580989644, guid: 19b46e73884ce3c4f941b288fb8c75ac, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d28c90d4a97bc6e41a71426af6a99a1d, type: 3}
+  m_Name: Arrow
+  m_EditorClassIdentifier: 
+  weaponName: Arrow
+  damage: 15
+  soundFx: {fileID: 8300000, guid: b0c7278e7c9abe04da8911e8c24329e7, type: 3}
+  weaponPrefab: {fileID: 1116411022852131216, guid: 4f8d14bebfa02dc4ba4d74c32cd6dd3a, type: 3}
+  weaponSpeed: 20
+  rangeVal: 10

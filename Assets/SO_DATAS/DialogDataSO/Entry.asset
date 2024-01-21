@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9150904902055971414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: a347b9ee-4082-4e18-8673-bc47ef6f497c
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: 'You must listen to me! The world has changed now.     '
+  subNodes:
+  - 335920ff-48e2-4969-a8f1-ba75b51b2da8
+--- !u!114 &-6479420050412020922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 316806aa-c0ab-49ba-9a3a-dfce8681f7df
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: What illness?
+  subNodes:
+  - 2cf07d11-4922-4d61-8875-43b376201acc
+--- !u!114 &-5408088998220117071
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 4e6e3869-1891-47fe-a5c7-a156e7aef65d
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: 'It would be good for you to hear what happened.  '
+  subNodes:
+  - 335920ff-48e2-4969-a8f1-ba75b51b2da8
+--- !u!114 &-4693835595830381829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: dd5ee0e9-9648-44b6-9160-d99d860ed256
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: 'I am an old friend of your grandfather. Our friendship goes back a
+    long time.     '
+  subNodes:
+  - a49cf00c-b894-4634-a4bf-84584c6bea30
+--- !u!114 &-4434680990025090648
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: b7e9c869-fcbf-49bc-b9b9-fb94c8c8d748
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: 
+  subNodes: []
+--- !u!114 &-3957104936531495464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d136ba1a-f117-4e3e-975a-9cad88deb3e5
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Greetings Kaltor!
+  subNodes:
+  - 715f1a1f-bb61-48a7-b623-e44df575fa37
+  - 763306e8-d42f-4e63-a42f-43f2d4be8760
+  - c8879d4c-6322-44e5-9c8d-aa00eb9f3ae4
+--- !u!114 &-3631460009724911574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 335920ff-48e2-4969-a8f1-ba75b51b2da8
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' My duty is to tell you what has happened. So, listen to what I have
+    to say. The illness has reached the other side of the village.'
+  subNodes:
+  - 316806aa-c0ab-49ba-9a3a-dfce8681f7df
+  - 2ec078db-79c4-4633-a68e-9acb295970e9
+--- !u!114 &-3616850682004795733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 715f1a1f-bb61-48a7-b623-e44df575fa37
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Who are you?
+  subNodes:
+  - 00b37584-ebc4-48de-99eb-c96dde334822
+  - 02f066d4-2f96-4015-b5a9-e2521d3f3f10
+--- !u!114 &-2744576027967082126
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d3b30484-a1cd-4962-b031-9697d8c0d7fb
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: The rings that your grandfather has guarded for years are now in your
+    possession. You should be aware that you have the ability to do things now.
+  subNodes:
+  - 2cf07d11-4922-4d61-8875-43b376201acc
+--- !u!114 &-1010671102415943793
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: a49cf00c-b894-4634-a4bf-84584c6bea30
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' You must be feeling different when you wake up. The rings you wear
+    have bestowed upon you those powers.'
+  subNodes:
+  - 335920ff-48e2-4969-a8f1-ba75b51b2da8
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: Entry
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: -3957104936531495464}
+  - {fileID: -3616850682004795733}
+  - {fileID: 2839742572998573168}
+  - {fileID: 8871335116144419520}
+  - {fileID: 6277594270274478479}
+  - {fileID: 958368188068568265}
+  - {fileID: -5408088998220117071}
+  - {fileID: -9150904902055971414}
+  - {fileID: 2026419684790285569}
+  - {fileID: 3142063973126571618}
+  - {fileID: -4693835595830381829}
+  - {fileID: -1010671102415943793}
+  - {fileID: -3631460009724911574}
+  - {fileID: -6479420050412020922}
+  - {fileID: 8536510578653269117}
+  - {fileID: 8715451690919341333}
+  - {fileID: -2744576027967082126}
+--- !u!114 &958368188068568265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: c8879d4c-6322-44e5-9c8d-aa00eb9f3ae4
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Move Away!
+  subNodes:
+  - 4e6e3869-1891-47fe-a5c7-a156e7aef65d
+  - a347b9ee-4082-4e18-8673-bc47ef6f497c
+--- !u!114 &1530976034726967867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: c3791b85-ca7b-43ea-beba-12073a3049dc
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: 
+  subNodes:
+  - d136ba1a-f117-4e3e-975a-9cad88deb3e5
+--- !u!114 &2026419684790285569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 039674d3-de28-4644-8414-8e31001b97a1
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' Hmm.  Must be another side effect of the rings.'
+  subNodes:
+  - 335920ff-48e2-4969-a8f1-ba75b51b2da8
+--- !u!114 &2839742572998573168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 00b37584-ebc4-48de-99eb-c96dde334822
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: 'So you dont remember me?  It''s understandable since a significant
+    amount of time has passed. '
+  subNodes:
+  - dd5ee0e9-9648-44b6-9160-d99d860ed256
+--- !u!114 &3142063973126571618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 4f52b4d7-5bd7-4f3f-b9fa-4d400a13fcd7
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: 'This is your village. I guess you''re not quite yourself at the moment.     '
+  subNodes:
+  - 335920ff-48e2-4969-a8f1-ba75b51b2da8
+--- !u!114 &6277594270274478479
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 763306e8-d42f-4e63-a42f-43f2d4be8760
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: What is this place?
+  subNodes:
+  - 039674d3-de28-4644-8414-8e31001b97a1
+  - 4f52b4d7-5bd7-4f3f-b9fa-4d400a13fcd7
+--- !u!114 &8536510578653269117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 2ec078db-79c4-4633-a68e-9acb295970e9
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: What does that have to do with me?
+  subNodes:
+  - d3b30484-a1cd-4962-b031-9697d8c0d7fb
+--- !u!114 &8715451690919341333
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 2cf07d11-4922-4d61-8875-43b376201acc
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: The other side of the village is plagued and inaccessible. You should
+    go there and see the situation for yourself.
+  subNodes: []
+--- !u!114 &8871335116144419520
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 02f066d4-2f96-4015-b5a9-e2521d3f3f10
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Didn't you recognize me?
+  subNodes:
+  - dd5ee0e9-9648-44b6-9160-d99d860ed256

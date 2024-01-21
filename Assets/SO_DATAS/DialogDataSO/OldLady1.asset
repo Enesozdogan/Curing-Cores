@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8872764439122954402
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: e52e4894-3e63-489f-8b3e-09409c55b491
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Go see Urama! Only he can explain what has happened
+  subNodes: []
+  nodePos:
+    serializedVersion: 2
+    x: 1659
+    y: 300
+    width: 200
+    height: 100
+--- !u!114 &-3890237047131779603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 697b3af7-3d75-4ec6-81e2-6cc6cbf31df7
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Oh, who am i seeing there?
+  subNodes:
+  - b909bb8a-cf96-45d6-9326-7f0faf3b1b37
+  - d9117ec2-d577-478e-a16b-948ec9c3e04b
+  nodePos:
+    serializedVersion: 2
+    x: 115
+    y: 268
+    width: 200
+    height: 100
+--- !u!114 &-152807898749190101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d9117ec2-d577-478e-a16b-948ec9c3e04b
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Why are you  here?
+  subNodes:
+  - edcb5d34-df09-4816-a1e3-0245779680c1
+  nodePos:
+    serializedVersion: 2
+    x: 686
+    y: 399
+    width: 200
+    height: 100
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: OldLady1
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: -3890237047131779603}
+  - {fileID: 60106365858892957}
+  - {fileID: -152807898749190101}
+  - {fileID: 4805623123819843024}
+  - {fileID: -8872764439122954402}
+  - {fileID: 5112091457142723303}
+--- !u!114 &60106365858892957
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: b909bb8a-cf96-45d6-9326-7f0faf3b1b37
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Do i know you?
+  subNodes:
+  - bec784e5-6c1f-4dd6-b325-42237272a28b
+  nodePos:
+    serializedVersion: 2
+    x: 756
+    y: 16
+    width: 200
+    height: 100
+--- !u!114 &4805623123819843024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: edcb5d34-df09-4816-a1e3-0245779680c1
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: The illness is everywhere, but I'm too old to handle this.
+  subNodes:
+  - e52e4894-3e63-489f-8b3e-09409c55b491
+  nodePos:
+    serializedVersion: 2
+    x: 1209
+    y: 317
+    width: 200
+    height: 100
+--- !u!114 &5112091457142723303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: bec784e5-6c1f-4dd6-b325-42237272a28b
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Bu farkli
+  subNodes: []
+  nodePos:
+    serializedVersion: 2
+    x: 1348
+    y: 75
+    width: 200
+    height: 100

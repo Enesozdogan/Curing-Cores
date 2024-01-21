@@ -1,0 +1,280 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-6262719409595258179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 5b246428-8182-475d-88b5-7afb56672c89
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' The Cores, which are the source of balance on our world, have been
+    gradually moving away from the core due to a beam of unknown light originating
+    from distant realms.'
+  subNodes:
+  - 8f8529c2-0d2c-45c7-8afd-efae03a333c1
+--- !u!114 &-6106597967029495226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 85262c77-60c4-472c-905e-a6b741d6a37c
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: The reason for this was that the depleted power of the cores was being
+    replenished from nature itself.
+  subNodes:
+  - d0c4df52-4fde-4603-9706-edf304b8e1d9
+--- !u!114 &-5743322190373504498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: c0fb6c32-918a-4aaf-a8ef-f143f8f2d312
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' These rings were meant to allow you to draw upon the power of the
+    cores and minimize the effects of the mutations on you.'
+  subNodes:
+  - 7929a74b-d987-4d98-b8f4-f7f98bb88aa8
+--- !u!114 &-4169679909422456993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 7929a74b-d987-4d98-b8f4-f7f98bb88aa8
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: You have managed to collect the scattered cores from nature. Now it's
+    time to present them back to the Shrine once again.
+  subNodes:
+  - 1db866a9-fd63-44a5-9f39-fd0fc2b827fb
+--- !u!114 &-3986725350465940420
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 7eecc203-83fe-4bf8-a80c-8f2af18a900e
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Would you like to know what happened to the world?
+  subNodes:
+  - c7fa9dd2-5bc6-4224-8adc-41a72a3d4b03
+  - ce49171c-a302-4ef3-942b-18c94b657fe3
+--- !u!114 &-3339043461006693423
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d0c4df52-4fde-4603-9706-edf304b8e1d9
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' I, Kelonor, the guardian wizard of the Core Shrine, have been recording
+    the developments since the onset of the changes.'
+  subNodes:
+  - 75534b2a-9eea-4789-a0fa-80b5b5028c5d
+--- !u!114 &-2904933648094874617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 1db866a9-fd63-44a5-9f39-fd0fc2b827fb
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: In this way, the world will regain its balance once again.
+  subNodes: []
+--- !u!114 &-1988143529108133546
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 75534b2a-9eea-4789-a0fa-80b5b5028c5d
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' Using the power of the Shrine, I forged the core rings that were
+    passed down to you as an inheritance.'
+  subNodes:
+  - c0fb6c32-918a-4aaf-a8ef-f143f8f2d312
+--- !u!114 &-1425471977877871917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: c7fa9dd2-5bc6-4224-8adc-41a72a3d4b03
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: 'Yes, tell me more '
+  subNodes:
+  - 5b246428-8182-475d-88b5-7afb56672c89
+--- !u!114 &-294636995162858222
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: de3a5929-7a48-49a5-8707-dc884b9faded
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Well,  You must present the rings to the shrine in order to restore
+    balance, thus completing the missing cores.
+  subNodes: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: KelonorEndGame
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: 4748959860478496357}
+  - {fileID: 5557483780662258179}
+  - {fileID: -3986725350465940420}
+  - {fileID: -1425471977877871917}
+  - {fileID: 7206812261019998339}
+  - {fileID: -294636995162858222}
+  - {fileID: -6262719409595258179}
+  - {fileID: 737051893328028515}
+  - {fileID: 5453012317880465577}
+  - {fileID: -6106597967029495226}
+  - {fileID: -3339043461006693423}
+  - {fileID: -1988143529108133546}
+  - {fileID: -5743322190373504498}
+  - {fileID: -4169679909422456993}
+  - {fileID: -2904933648094874617}
+--- !u!114 &737051893328028515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 8f8529c2-0d2c-45c7-8afd-efae03a333c1
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Initially, everything was fine, and people even believed they were
+    feeling more energetic.
+  subNodes:
+  - f34edfdb-e8fe-4ed3-829b-db2c0cf8592b
+--- !u!114 &4748959860478496357
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 908694c5-44c2-428b-b198-79784db5665f
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Is that you Kaltor?
+  subNodes:
+  - ccf81aca-0ca9-4765-a872-50ea003e31ca
+--- !u!114 &5453012317880465577
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: f34edfdb-e8fe-4ed3-829b-db2c0cf8592b
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: However, the side effects of the power within the cores led to mutations
+    in both living beings and nature.
+  subNodes:
+  - 85262c77-60c4-472c-905e-a6b741d6a37c
+--- !u!114 &5557483780662258179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: ccf81aca-0ca9-4765-a872-50ea003e31ca
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: I couldn't even imagine that I would live to see these days.
+  subNodes:
+  - 7eecc203-83fe-4bf8-a80c-8f2af18a900e
+--- !u!114 &7206812261019998339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: ce49171c-a302-4ef3-942b-18c94b657fe3
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: No. Just tell me what do i have to do.
+  subNodes:
+  - de3a5929-7a48-49a5-8707-dc884b9faded

@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8507602024586671098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 4dc87e88-6d0c-4433-9063-96f2138eb5ee
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: I see you made it this far
+  subNodes:
+  - efa4d205-601d-4372-9d38-1722a4090880
+--- !u!114 &-3974919526692672151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 2ab24ee2-31a7-402d-8ca1-9a17a91d5c73
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: To overcome this part, you should use the Azure ring and possibly the
+    magenta ring.
+  subNodes:
+  - d6c99d89-8be6-4a54-b228-6e81aa0358b6
+--- !u!114 &-1101126052218654049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 140adf91-f9b7-4338-bc9b-937ca337ca96
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: But this place is a little bit different
+  subNodes:
+  - 2ab24ee2-31a7-402d-8ca1-9a17a91d5c73
+--- !u!114 &-655087888536392620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d6c99d89-8be6-4a54-b228-6e81aa0358b6
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Good Luck!
+  subNodes: []
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: Lvl3Dialog
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: -8507602024586671098}
+  - {fileID: -1101126052218654049}
+  - {fileID: -3974919526692672151}
+  - {fileID: 3733822687360446633}
+  - {fileID: 4018269214714701623}
+  - {fileID: 4417742016806448622}
+  - {fileID: -655087888536392620}
+--- !u!114 &3733822687360446633
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: efa4d205-601d-4372-9d38-1722a4090880
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: I think you struggled on your way here. You must have noticed some
+    shimmering objects. Those are particles that enhance the power of the rings.
+    Don't forget to collect them.
+  subNodes:
+  - 92be54f8-6526-416f-9083-2d2c4cb317bd
+--- !u!114 &4018269214714701623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 92be54f8-6526-416f-9083-2d2c4cb317bd
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' The rings are compatible with each other based on their colors. The
+    red ones enhance overall power, the blue ones improve mobility, and the white
+    ones strengthen teleportation abilities.'
+  subNodes:
+  - c2c1f5df-d2f2-4290-b13e-8401448772b3
+--- !u!114 &4417742016806448622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: c2c1f5df-d2f2-4290-b13e-8401448772b3
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: After this information you are ready to move on
+  subNodes:
+  - 140adf91-f9b7-4338-bc9b-937ca337ca96

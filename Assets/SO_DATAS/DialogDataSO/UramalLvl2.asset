@@ -1,0 +1,244 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9205461061998139654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 93b3715c-1c62-4b8c-a7ae-7e4fe403f709
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: How did you manage to get here before me?
+  subNodes:
+  - 01bf26b0-6982-4069-b0ec-c9e4a0fdbb12
+--- !u!114 &-8721844249365353825
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: cb4eeb3f-75c2-4f7d-a514-e88cb450fbf7
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: After clearing the path, a challenging journey awaits you, but I will
+    always guide and inform you along the way.
+  subNodes: []
+--- !u!114 &-6727589171365424590
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 22413242-ffff-4f7a-b40e-3744761a16ec
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: So what do i do?
+  subNodes:
+  - 414632d3-b5d3-4878-8987-e28ec9a0d0b2
+--- !u!114 &-6509517236287165294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 87da19b8-6ceb-4f60-bb6e-aede9a258f67
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Isn't there another choice?
+  subNodes:
+  - f95430da-04d3-4c06-b1cd-a16e3009475c
+--- !u!114 &-5342048946838201884
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 70f83717-cd89-4d08-acb8-e0188b8fcdbf
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Did you see the two houses on the way you came? There's no one living
+    there anymore. The illness doesn't allow them to use their minds. That's why
+    there are tombstones in front of those houses.
+  subNodes:
+  - 23a33d6d-f5cd-422b-b3b2-925023ef2b1e
+--- !u!114 &-4015734977692700643
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 23a33d6d-f5cd-422b-b3b2-925023ef2b1e
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: ' Unfortunately, the villagers are not in their right minds, and they
+    will harm you. To stop this, you must use the rings.'
+  subNodes:
+  - 70be16cf-de7f-4daf-b0ea-979688a07cfd
+  - 87da19b8-6ceb-4f60-bb6e-aede9a258f67
+  - 22413242-ffff-4f7a-b40e-3744761a16ec
+--- !u!114 &-3998703137073870443
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 9c8c0d5d-0449-470a-9f43-03fe2e5edb6d
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: What happened here?
+  subNodes:
+  - 70f83717-cd89-4d08-acb8-e0188b8fcdbf
+--- !u!114 &-3468046770574819013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: d5cece9f-e07f-4070-ad75-d06a383ff770
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Finally, you made it!
+  subNodes:
+  - 93b3715c-1c62-4b8c-a7ae-7e4fe403f709
+  - 9c8c0d5d-0449-470a-9f43-03fe2e5edb6d
+--- !u!114 &-1849000399519506296
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 09ed0bcc-0827-4a26-b440-610e002996a5
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: Unfortunately
+  subNodes:
+  - cb4eeb3f-75c2-4f7d-a514-e88cb450fbf7
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a01c28f10ba32478802d153d1016a4, type: 3}
+  m_Name: UramalLvl2
+  m_EditorClassIdentifier: 
+  dialogName: 
+  dialogNodes:
+  - {fileID: -3468046770574819013}
+  - {fileID: -9205461061998139654}
+  - {fileID: -3998703137073870443}
+  - {fileID: 7227346251432318820}
+  - {fileID: -5342048946838201884}
+  - {fileID: -4015734977692700643}
+  - {fileID: 4249954741825526922}
+  - {fileID: -6509517236287165294}
+  - {fileID: -6727589171365424590}
+  - {fileID: 993070606111413750}
+  - {fileID: 2600347542809565657}
+  - {fileID: -1849000399519506296}
+  - {fileID: -8721844249365353825}
+--- !u!114 &993070606111413750
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 414632d3-b5d3-4878-8987-e28ec9a0d0b2
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: As I said, sacrifices must be made.
+  subNodes:
+  - cb4eeb3f-75c2-4f7d-a514-e88cb450fbf7
+--- !u!114 &2600347542809565657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: f95430da-04d3-4c06-b1cd-a16e3009475c
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: To save the healthy villagers, you must eliminate the patients who
+    are blocking the path. Despite our reluctance, this is the only solution.
+  subNodes:
+  - cb4eeb3f-75c2-4f7d-a514-e88cb450fbf7
+--- !u!114 &4249954741825526922
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 70be16cf-de7f-4daf-b0ea-979688a07cfd
+  m_EditorClassIdentifier: 
+  isPlayerActive: 0
+  dialogText: Do you want me to kill them!!
+  subNodes:
+  - 09ed0bcc-0827-4a26-b440-610e002996a5
+--- !u!114 &7227346251432318820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb39f7fa899e2b48a089e1cf0b0263d, type: 3}
+  m_Name: 01bf26b0-6982-4069-b0ec-c9e4a0fdbb12
+  m_EditorClassIdentifier: 
+  isPlayerActive: 1
+  dialogText: I am a wizard my friend. There are many things you don't know.
+  subNodes:
+  - 70f83717-cd89-4d08-acb8-e0188b8fcdbf

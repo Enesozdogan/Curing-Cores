@@ -18,4 +18,6 @@ Player has to switch between abilites to perform. This also contributes to chara
 <img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/584cbd7f-fdf4-48c2-8c8c-76e630ce76f0" width=200 height=100/>
 
 ## Pickups
+There are 4 types of pickups in the game curing cores. First of them is the health pickup which increases current health point of the character. Rest of the pickups correlate with player ability stats. These stats can be separated as movement(horizontal and jump str), damage output increase, teleportation distance increase.  
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/5727b8f6-ecba-435d-bbad-9d2571ad3595" width=100 height=100/>
 

@@ -46,5 +46,5 @@ First from singular blocks a structure prefab is obtained. Then from this prefab
 This system can separated to 3 modules. First, the configuration on the editor for creating nodes. On this part, a node editor window is created for connecting dialouge data nodes which contain text information as scriptable objects in base dialouge scriptable object. On the second module, after the dialouge data is prepared the related nodes are retrieved from the base dialouge tree progressively based on the player choice. On the third part all that remains is to create a NPC that holds the related dialouge reference which gets activated on player contact.  
 
 
-<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/776c8f7a-643e-4525-88c9-365330d5da06" width=200 height=200/>
+<img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/776c8f7a-643e-4525-88c9-365330d5da06" width=400 height=200/>
 

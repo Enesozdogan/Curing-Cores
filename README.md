@@ -10,10 +10,12 @@ To implement various mechanics for both the player character and the AI characte
 
 ## Special Abilites
 The main character has 3 special abilites which are: Teleportation, BloodSlash and Lightning hook. These special abilites are integrated to state pattern. Also for outline shader and general ability checks, special ability classes called rings are implemented.
-Player has to switch between abilites to perform. The outline shader is the indication for which ability is available to use.
+Player has to switch between abilites to perform. This also contributes to character stats of the current ability state. For an example if the character has red outline, it increases damage output both in default attacks and bloodslash skill and same for the other states. The outline shader is the indication for which ability is available to use.
 
 
 <img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/3643aa22-9a68-43d2-9f90-ba83ce8368d7" width=200 height=100/>
 <img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/91bde8fd-dfaf-4a9a-996a-1b436ff057df" width=200 height=100/>
 <img src="https://github.com/Enesozdogan/Curing-Cores/assets/72387932/584cbd7f-fdf4-48c2-8c8c-76e630ce76f0" width=200 height=100/>
+
+## Pickups
 
